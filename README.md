@@ -1,4 +1,4 @@
-# secutiry-random
+# secure-random
 SecureRandom
 
 
